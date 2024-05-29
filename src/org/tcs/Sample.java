@@ -5,6 +5,6 @@ public class Sample {
 		System.out.println("Tes1");
 		System.out.println("Test2");
 		System.out.println("Test3");
-		System.out.println("Test4");
+		System.out.println("test4");
 	}
 }
